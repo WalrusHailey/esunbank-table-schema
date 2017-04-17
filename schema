@@ -1,0 +1,164 @@
+<table class="inteTable" id="inteTable1">
+    <tr class="titleRow">
+        <td class="titleBig" width="178" rowspan="2">幣別</td>
+        <td width="229" colspan="2">即期匯率</td>
+        <td width="229" colspan="2" class="lastTd">現金匯率</td>
+    </tr>
+    <tr class="titleRow">
+        <td data-name="即期匯率買入">買入</td>
+        <td data-name="即期匯率賣出">賣出</td>
+        <td data-name="現金匯率買入">買入</td>
+        <td data-name="現金匯率賣出" class="lastTd">賣出</td>
+    </tr>
+    
+            <tr class="tableContent-light" align="center">
+                <td class="itemTtitle" data-name="外幣類別">
+                    <img src="_/media/esunbank/images/common/flags/usd.png?w=23&h15&thn=1" border="0"><a href="/bank/personal/deposit/rate/forex/exchange-rate-chart?Currency=USD/TWD">美元(USD)<img class="rc" src="/bank/images/esunbank/deposit/icon_rc.png" alt="走勢圖"></a></td>
+                <td data-name="即期買入匯率" class="odd">30.29</td>
+                <td data-name="即期賣出匯率" class="even">30.39</td>
+
+                <td data-name="現金買入匯率" class="odd">30.09</td>
+                <td data-name="現金賣出匯率" class="even lastTd">30.54</td>
+            </tr>
+        
+            <tr class="tableContent-light" align="center" data-name="外幣類別">
+                <td class="itemTtitle">
+                    <img src="_/media/esunbank/images/common/flags/cny.png?w=23&h15&thn=1" border="0"><a href="/bank/personal/deposit/rate/forex/exchange-rate-chart?Currency=CNY/TWD">人民幣(CNY)<img class="rc" src="/bank/images/esunbank/deposit/icon_rc.png" alt="走勢圖"></a></td>
+                <td data-name="即期買入匯率" class="odd">4.386</td>
+                <td data-name="即期賣出匯率" class="even">4.436</td>
+
+                <td data-name="現金買入匯率" class="odd">4.331</td>
+                <td data-name="現金賣出匯率" class="even lastTd">4.461</td>
+            </tr>
+        
+            <tr class="tableContent-light" align="center" data-name="外幣類別">
+                <td class="itemTtitle">
+                    <img src="_/media/esunbank/images/common/flags/hkd.png?w=23&h15&thn=1" border="0"><a href="/bank/personal/deposit/rate/forex/exchange-rate-chart?Currency=HKD/TWD">港幣(HKD)<img class="rc" src="/bank/images/esunbank/deposit/icon_rc.png" alt="走勢圖"></a></td>
+                <td data-name="即期買入匯率" class="odd">3.873</td>
+                <td data-name="即期賣出匯率" class="even">3.933</td>
+
+                <td data-name="現金買入匯率" class="odd">3.843</td>
+                <td data-name="現金賣出匯率" class="even lastTd">3.963</td>
+            </tr>
+        
+            <tr class="tableContent-light" align="center" data-name="外幣類別">
+                <td class="itemTtitle">
+                    <img src="_/media/esunbank/images/common/flags/jpy.png?w=23&h15&thn=1" border="0"><a href="/bank/personal/deposit/rate/forex/exchange-rate-chart?Currency=JPY/TWD">日圓(JPY)<img class="rc" src="/bank/images/esunbank/deposit/icon_rc.png" alt="走勢圖"></a></td>
+                <td data-name="即期買入匯率" class="odd">0.2784</td>
+                <td data-name="即期賣出匯率" class="even">0.2824</td>
+
+                <td data-name="現金買入匯率" class="odd">0.2774</td>
+                <td data-name="現金賣出匯率" class="even lastTd">0.2834</td>
+            </tr>
+        
+            <tr class="tableContent-light" align="center" data-name="外幣類別">
+                <td class="itemTtitle">
+                    <img src="_/media/esunbank/images/common/flags/eur.png?w=23&h15&thn=1" border="0"><a href="/bank/personal/deposit/rate/forex/exchange-rate-chart?Currency=EUR/TWD">歐元(EUR)<img class="rc" src="/bank/images/esunbank/deposit/icon_rc.png" alt="走勢圖"></a></td>
+                <td data-name="即期買入匯率" class="odd">32.01</td>
+                <td data-name="即期賣出匯率" class="even">32.41</td>
+
+                <td data-name="現金買入匯率" class="odd">31.71</td>
+                <td data-name="現金賣出匯率" class="even lastTd">32.71</td>
+            </tr>
+        
+            <tr class="tableContent-light" align="center" data-name="外幣類別">
+                <td class="itemTtitle">
+                    <img src="_/media/esunbank/images/common/flags/aud.jpg?w=23&h15&thn=1" border="0"><a href="/bank/personal/deposit/rate/forex/exchange-rate-chart?Currency=AUD/TWD">澳幣(AUD)<img class="rc" src="/bank/images/esunbank/deposit/icon_rc.png" alt="走勢圖"></a></td>
+                <td data-name="即期買入匯率" class="odd">22.9</td>
+                <td data-name="即期賣出匯率" class="even">23.1</td>
+
+                <td data-name="現金買入匯率" class="odd">22.6</td>
+                <td data-name="現金賣出匯率" class="even lastTd">23.4</td>
+            </tr>
+        
+            <tr class="tableContent-light" align="center" data-name="外幣類別">
+                <td class="itemTtitle">
+                    <img src="_/media/esunbank/images/common/flags/cad.png?w=23&h15&thn=1" border="0"><a href="/bank/personal/deposit/rate/forex/exchange-rate-chart?Currency=CAD/TWD">加拿大幣(CAD)<img class="rc" src="/bank/images/esunbank/deposit/icon_rc.png" alt="走勢圖"></a></td>
+                <td data-name="即期買入匯率" class="odd">22.71</td>
+                <td data-name="即期賣出匯率" class="even">22.89</td>
+
+                <td data-name="現金買入匯率" class="odd">22.4</td>
+                <td data-name="現金賣出匯率" class="even lastTd">23.2</td>
+            </tr>
+        
+            <tr class="tableContent-light" align="center" data-name="外幣類別">
+                <td class="itemTtitle">
+                    <img src="_/media/esunbank/images/common/flags/gbp.png?w=23&h15&thn=1" border="0"><a href="/bank/personal/deposit/rate/forex/exchange-rate-chart?Currency=GBP/TWD">英鎊(GBP)<img class="rc" src="/bank/images/esunbank/deposit/icon_rc.png" alt="走勢圖"></a></td>
+                <td data-name="即期買入匯率" class="odd">37.83</td>
+                <td data-name="即期賣出匯率" class="even">38.23</td>
+
+                <td data-name="現金買入匯率" class="odd">37.53</td>
+                <td data-name="現金賣出匯率" class="even lastTd">38.53</td>
+            </tr>
+        
+            <tr class="tableContent-light" align="center" data-name="外幣類別">
+                <td class="itemTtitle">
+                    <img src="_/media/esunbank/images/common/flags/zar.png?w=23&h15&thn=1" border="0"><a href="/bank/personal/deposit/rate/forex/exchange-rate-chart?Currency=ZAR/TWD">南非幣(ZAR)<img class="rc" src="/bank/images/esunbank/deposit/icon_rc.png" alt="走勢圖"></a></td>
+                <td data-name="即期買入匯率" class="odd">2.203</td>
+                <td data-name="即期賣出匯率" class="even">2.323</td>
+
+                <td data-name="現金買入匯率" class="odd"></td>
+                <td data-name="現金賣出匯率" class="even lastTd"></td>
+            </tr>
+        
+            <tr class="tableContent-light" align="center" data-name="外幣類別">
+                <td class="itemTtitle">
+                    <img src="_/media/esunbank/images/common/flags/nzd.png?w=23&h15&thn=1" border="0"><a href="/bank/personal/deposit/rate/forex/exchange-rate-chart?Currency=NZD/TWD">紐西蘭幣(NZD)<img class="rc" src="/bank/images/esunbank/deposit/icon_rc.png" alt="走勢圖"></a></td>
+                <td data-name="即期買入匯率" class="odd">21.19</td>
+                <td data-name="即期賣出匯率" class="even">21.43</td>
+
+                <td data-name="現金買入匯率" class="odd"></td>
+                <td data-name="現金賣出匯率" class="even lastTd"></td>
+            </tr>
+        
+            <tr class="tableContent-light" align="center" data-name="外幣類別">
+                <td class="itemTtitle">
+                    <img src="_/media/esunbank/images/common/flags/chf.png?w=23&h15&thn=1" border="0"><a href="/bank/personal/deposit/rate/forex/exchange-rate-chart?Currency=CHF/TWD">瑞士法郎(CHF)<img class="rc" src="/bank/images/esunbank/deposit/icon_rc.png" alt="走勢圖"></a></td>
+                <td data-name="即期買入匯率" class="odd">30.1</td>
+                <td data-name="即期賣出匯率" class="even">30.3</td>
+
+                <td data-name="現金買入匯率" class="odd"></td>
+                <td data-name="現金賣出匯率" class="even lastTd"></td>
+            </tr>
+        
+            <tr class="tableContent-light" align="center" data-name="外幣類別">
+                <td class="itemTtitle">
+                    <img src="_/media/esunbank/images/common/flags/sek.png?w=23&h15&thn=1" border="0"><a href="/bank/personal/deposit/rate/forex/exchange-rate-chart?Currency=SEK/TWD">瑞典幣(SEK)<img class="rc" src="/bank/images/esunbank/deposit/icon_rc.png" alt="走勢圖"></a></td>
+                <td data-name="即期買入匯率" class="odd">3.328</td>
+                <td data-name="即期賣出匯率" class="even">3.388</td>
+
+                <td data-name="現金買入匯率" class="odd"></td>
+                <td data-name="現金賣出匯率" class="even lastTd"></td>
+            </tr>
+        
+            <tr class="tableContent-light" align="center" data-name="外幣類別">
+                <td class="itemTtitle">
+                    <img src="_/media/esunbank/images/common/flags/sgd.png?w=23&h15&thn=1" border="0"><a href="/bank/personal/deposit/rate/forex/exchange-rate-chart?Currency=SGD/TWD">新加坡幣(SGD)<img class="rc" src="/bank/images/esunbank/deposit/icon_rc.png" alt="走勢圖"></a></td>
+                <td data-name="即期買入匯率" class="odd">21.67</td>
+                <td data-name="即期賣出匯率" class="even">21.83</td>
+
+                <td data-name="現金買入匯率" class="odd"></td>
+                <td data-name="現金賣出匯率" class="even lastTd"></td>
+            </tr>
+        
+            <tr class="tableContent-light" align="center" data-name="外幣類別">
+                <td class="itemTtitle">
+                    <img src="_/media/esunbank/images/common/flags/mxn.png?w=23&h15&thn=1" border="0"><a href="/bank/personal/deposit/rate/forex/exchange-rate-chart?Currency=MXN/TWD">墨西哥披索(MXN)<img class="rc" src="/bank/images/esunbank/deposit/icon_rc.png" alt="走勢圖"></a></td>
+                <td data-name="即期買入匯率" class="odd">1.579</td>
+                <td data-name="即期賣出匯率" class="even">1.699</td>
+
+                <td data-name="現金買入匯率" class="odd"></td>
+                <td data-name="現金賣出匯率" class="even lastTd"></td>
+            </tr>
+        
+            <tr class="tableContent-light" align="center" data-name="外幣類別">
+                <td class="itemTtitle">
+                    <img src="_/media/esunbank/images/common/flags/thb.png?w=23&h15&thn=1" border="0"><a href="/bank/personal/deposit/rate/forex/exchange-rate-chart?Currency=THB/TWD">泰銖(THB)<img class="rc" src="/bank/images/esunbank/deposit/icon_rc.png" alt="走勢圖"></a></td>
+                <td data-name="即期買入匯率" class="odd">0.864</td>
+                <td data-name="即期賣出匯率" class="even">0.904</td>
+
+                <td data-name="現金買入匯率" class="odd"></td>
+                <td data-name="現金賣出匯率" class="even lastTd"></td>
+            </tr>
+        
+</table>
