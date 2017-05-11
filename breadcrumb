@@ -1,0 +1,32 @@
+<ul class="breadCrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+  <li id="layout_0_breadcrumb_0_LsvBreadCrumbu_liHyperLink_0" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+    <a id="layout_0_breadcrumb_0_LsvBreadCrumbu_HlkBreadCrumbItem_0" class="home" href="/bank/personal" itemprop="item"><span itemprop="name">首頁</span>></a>
+  <meta itemprop="position" content="1" />
+</li>
+    
+  <li id="layout_0_breadcrumb_0_LsvBreadCrumbu_liHyperLink_1" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+    <a id="layout_0_breadcrumb_0_LsvBreadCrumbu_HlkBreadCrumbItem_1" href="/bank/personal" itemprop="item"><span itemprop="name">個人服務</span></a>
+  <meta itemprop="position" content="2" />
+  </li>
+    
+  <li id="layout_0_breadcrumb_0_LsvBreadCrumbu_liHyperLink_2" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+    <a id="layout_0_breadcrumb_0_LsvBreadCrumbu_HlkBreadCrumbItem_2" href="/bank/personal/deposit" itemprop="item"><span itemprop="name">存匯</span></a>
+  <meta itemprop="position" content="3" />
+  </li>
+    
+  <li id="layout_0_breadcrumb_0_LsvBreadCrumbu_liHyperLink_3" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+    <a id="layout_0_breadcrumb_0_LsvBreadCrumbu_HlkBreadCrumbItem_3" href="/bank/personal/deposit/foreign-service" itemprop="item"><span itemprop="name">外幣服務</span></a>
+  <meta itemprop="position" content="4" />
+  </li>
+  
+  /*不知道為什麼多一層↓，如果不需要也可以刪除這一層*/  
+  <li id="layout_0_breadcrumb_0_LsvBreadCrumbu_liHyperLink_4">
+            
+  </li>
+  
+  /*最終層也需要有超連結，連到自身頁*/
+  <li id="layout_0_breadcrumb_0_LsvBreadCrumbu_liHyperLink_4" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+    <a id="layout_0_breadcrumb_0_LsvBreadCrumbu_HlkBreadCrumbItem_4" href="/bank/personal/deposit/foreign-service/deopsit-event" itemprop="item"><span itemprop="name">外幣優惠 盡在玉山</span></a>
+  <meta itemprop="position" content="5" />
+  </li>
+</ul>
