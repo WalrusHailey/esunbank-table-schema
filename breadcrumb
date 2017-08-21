@@ -1,9 +1,9 @@
 <ul class="breadCrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
-/*原本首頁這一層並沒有文字，建議加上去*/
   <li id="layout_0_breadcrumb_0_LsvBreadCrumbu_liHyperLink_0" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-    <a id="layout_0_breadcrumb_0_LsvBreadCrumbu_HlkBreadCrumbItem_0" class="home" href="/bank/personal" itemprop="item"><span itemprop="name">首頁</span>></a>
+    <a id="layout_0_breadcrumb_0_LsvBreadCrumbu_HlkBreadCrumbItem_0" class="home" href="/bank/personal" itemprop="item"><span itemprop="name">首頁</span></a>
   <meta itemprop="position" content="1" />
 </li>
+/*原本首頁這一層並沒有「首頁」文字，建議加上去*/
     
   <li id="layout_0_breadcrumb_0_LsvBreadCrumbu_liHyperLink_1" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
     <a id="layout_0_breadcrumb_0_LsvBreadCrumbu_HlkBreadCrumbItem_1" href="/bank/personal" itemprop="item"><span itemprop="name">個人服務</span></a>
