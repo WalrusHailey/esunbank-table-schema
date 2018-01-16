@@ -1,0 +1,43 @@
+<script type="application/ld+json">
+{
+  "@context":"http://schema.org",
+  "@type":"ItemList",
+  "itemListElement":[
+    {
+      "@type":"ListItem",
+      "position":1,
+      "url":"https://www.esunbank.com.tw/bank/personal/deposit/foreign_content/new"
+    },
+    {
+      "@type":"ListItem",
+      "position":2,
+      "url":"https://www.esunbank.com.tw/event/forex/marketing/holiday/index.html?newweb"
+    },
+    {
+      "@type":"ListItem",
+      "position":3,
+      "url":"https://www.esunbank.com.tw/event/forex/situation/travel/index.html?newweb"
+    },
+    {
+      "@type":"ListItem",
+      "position":4,
+      "url":"https://www.esunbank.com.tw/bank/personal/deposit/foreign_content/situation?tabid=tab02"
+    },
+    {
+      "@type":"ListItem",
+      "position":5,
+      "url":"https://www.esunbank.com.tw/event/forex/marketing/stock/index.html?newweb"
+    },
+    {
+      "@type":"ListItem",
+      "position":6,
+      "url":"https://www.esunbank.com.tw/event/forex/situation/retirement/index.html?newweb"
+    },
+    {
+      "@type":"ListItem",
+      "position":7,
+      "url":"https://www.esunbank.com.tw/bank/personal/deposit/foreign_content/situation?tabid=tab03#tab-C"
+    },
+  ]
+}
+</script>
