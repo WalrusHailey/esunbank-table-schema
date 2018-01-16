@@ -1,0 +1,25 @@
+    <script type="application/ld+json">
+      {
+        "@context":"https://schema.org",
+        "@type":"Corporation",
+        "brand":"玉山銀行",
+        "url":"https://www.esunbank.com.tw/bank/personal",
+        "sameAs": [
+          "https://www.facebook.com/esuncat",
+          "https://www.youtube.com/user/ESUNCHANNEL"
+        ],
+        "logo":"https://www.esunbank.com.tw/bank/-/media/esunbank/images/common/mega-footer/footer_logo.png?h=36&la=en&w=232",
+        "contactPoint": [
+          { "@type": "ContactPoint",
+            "telephone": "0800-301313",
+            "contactType": "customer service"
+            "contactOption": "TollFree",
+            "areaServed": "TW"
+          },{
+            "@type": "ContactPoint",
+            "telephone": "+8862-2182-1313",
+            "contactType": "customer service"
+          }
+        ]
+      }
+    </script>
