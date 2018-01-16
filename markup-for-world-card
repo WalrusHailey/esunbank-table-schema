@@ -1,0 +1,11 @@
+<script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"Product",
+    "name":"玉山世界卡",
+    "url":"https://www.esunbank.com.tw/bank/personal/credit-card/intro/world-card/world",
+    "description":"五星餐飲飯店的異國風情頂級饗宴、極具特色的商旅度假飯店及高爾夫揮桿等眾多尊榮禮遇。財富管理：每一位世界卡卡友皆有一位專屬經理擔任服務窗口，並搭配資深理財專員，迅速提供各種金融理財服務，讓您的心靈更富有。公益：玉山銀行以感恩的心發行玉山世界卡，為亞洲首張結合公益的頂級卡，每個月皆提撥您國內一般刷卡消費金額的千分之三，為偏鄉地區小學打造玉山圖書館，您的每一筆消費都能讓偏鄉孩童擁有溫馨舒適的閱讀環境。",
+    "image":"https://www.esunbank.com.tw/bank/-/media/esunbank/images/home/personal/credit-card/cards/card-230x144/04/230x144combi.png?h=146&la=en&w=230",
+    "brand":"玉山銀行"
+   }
+</script>
