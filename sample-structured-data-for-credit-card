@@ -1,0 +1,11 @@
+<script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"Product",
+    "name":"卡片名稱",
+    "url":"信用卡專屬介紹頁面網址",
+    "description":"信用卡特色介紹",
+    "image":"信用卡圖片",
+    "brand":"玉山銀行"
+   }
+</script>
